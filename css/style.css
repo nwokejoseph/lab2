@@ -3,3 +3,9 @@ body {
 	padding: 5px;
 }
 
+header {
+	font-size: large;
+	text-align: center;
+	font-weight: bold
+}
+
