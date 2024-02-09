@@ -47,5 +47,16 @@ button:hover {
 	color: white;
 }
 
-
-
+@media screen and (max-width: 510px) {
+	body {
+		margin: 2%;
+	} 
+	
+	#button {
+		width: 98%;
+	}
+	
+	.birthday {
+		width: 31.29%
+	}
+}
