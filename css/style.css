@@ -9,3 +9,13 @@ header {
 	font-weight: bold
 }
 
+form {
+	margin: 0 auto;
+	border: 1px;
+	border-radius: 5px;
+	padding: 1rem;
+	width: 85%;
+}
+
+
+
